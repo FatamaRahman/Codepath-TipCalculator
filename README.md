@@ -1,11 +1,11 @@
-# Tip-Calculator
-// My first attempt at making a tip calculator. 
-//  ViewController.swift
-//  tips
-//
-//  Created by Fatama on 12/30/15.
-//  Copyright (c) 2015 codepath. All rights reserved.
-//
+# Tip-Calculator<br>
+// My first attempt at making a tip calculator. <br>
+//  ViewController.swift<br>
+//  tips<br>
+//<br>
+//  Created by Fatama on 12/30/15.<br>
+//  Copyright (c) 2015 codepath. All rights reserved.<br>
+//<br>
 
 import UIKit
 
